@@ -35,12 +35,7 @@ This project centralizes live weather and air quality data to provide actionable
 ---
 
 ## 📊 Dashboard Preview
-
-<img width="2767" height="1600" alt="Weather_Dashboard" src="https://github.com/user-attachments/assets/e5dfe2e9-acba-4149-90f4-fe85020e1c67" />
-
-
-
-**Suggested title:** Main Weather & Air Quality Dashboard Overview
+![Weather_Dashboard_page-0001](https://github.com/user-attachments/assets/d1eb2f9d-6a3c-4b27-b5f4-f9e232ddd09c)
 
 ---
 
